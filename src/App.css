@@ -1,0 +1,26 @@
+body {
+  background: #031321;
+}
+.App {
+  text-align: center;
+  margin: 0 auto;
+  max-width: 730px;
+  margin-top: 100px;
+  background: skyblue;
+  border-radius: 5px;
+  padding: 20px 10px 10px 10px;
+}
+.add__form-btn {
+  border: none;
+  outline: none;
+  margin: 10px;
+  padding: 8px 24px;
+  border-radius: 5px;
+  background: darkcyan;
+  color: #fff;
+  cursor: pointer;
+  transition: box-shadow 0.3s, border-color 0.3s, ;
+}
+.add__form-btn:hover {
+  background: #008CBA;
+}
